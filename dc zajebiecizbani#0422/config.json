@@ -1,0 +1,14 @@
+{
+    "database": {
+        "ip": "localhost",
+        "user": "root",
+        "password": "",
+        "base": "test"
+    },  
+
+    "username": "two.latte",
+    "like": "yes",
+    "gift": "yes",
+
+    "license": "KingHax#4033%serhito123"
+}

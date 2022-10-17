@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "ipapi.co": "^0.3.0",
+    "mysql": "^2.18.1",
+    "tiktok-live-connector": "^1.0.1"
+  },
+  "version": "0.0.1",
+  "auto-updater": {
+    "repo": "/github-user/github-repo",
+    "branch": "master"
+  }
+}

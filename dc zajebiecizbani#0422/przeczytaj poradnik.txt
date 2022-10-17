@@ -1,0 +1,6 @@
+[1] Pobierz nodejs z tego linku i zainstaluj https://nodejs.org/dist/v16.18.0/node-v16.18.0-x64.msi
+[2] Uzupełnij config.json 
+[3] Wgraj plugin "Tiktok-EZ.jar" do folderu plugins uzupelnij config
+[4] Wgraj baze danych mysql "tiktokrequests.sql"
+[5] Odpal plik "start.bat"
+[6] Ciesz sie contencikiem!
